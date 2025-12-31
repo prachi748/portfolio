@@ -21,4 +21,3 @@ I also actively work on projects that showcase my creativity and problem-solving
 
 ## Live Portfolio
 [Check it here](https://prachi748.github.io/portfolio/)
-![Profile Image](profile.jpg)
